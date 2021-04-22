@@ -4,4 +4,12 @@
 
 ### hello world
 
+<<<<<<< HEAD
+
 ### im from arash branch
+
+=======
+
+### im from main branch
+
+> > > > > > > main
